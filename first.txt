@@ -1,1 +1,2 @@
 This is a new file which is added from the first branch
+I am adding this line again from the second branch which is derived from first
